@@ -1,0 +1,1246 @@
+{
+  "미기재": {
+    "en": "Not stated",
+    "ru": "Не указано"
+  },
+  "현재 화면의 주소를 복사했습니다.": {
+    "en": "Link copied.",
+    "ru": "Ссылка скопирована."
+  },
+  "주소 표시줄에서 현재 주소를 복사해 주세요.": {
+    "en": "Copy the URL from the address bar.",
+    "ru": "Скопируйте ссылку из адресной строки."
+  },
+  "자료를 열 수 없습니다": {
+    "en": "Unable to load data",
+    "ru": "Не удалось загрузить данные"
+  },
+  "다시 불러오기": {
+    "en": "Reload",
+    "ru": "Загрузить снова"
+  },
+  "104인의 관계도를 준비합니다": {
+    "en": "Loading the network of 104 writers",
+    "ru": "Загрузка сети 104 писателей"
+  },
+  "104인 관계도 처음 화면": {
+    "en": "Network home",
+    "ru": "Начальная сеть"
+  },
+  "18세기 작가 관계도": {
+    "en": "18th-century writers",
+    "ru": "Писатели XVIII века"
+  },
+  "104인 · 검토본": {
+    "en": "104 writers · Review",
+    "ru": "104 автора · Проверка"
+  },
+  "언어 선택": {
+    "en": "Language",
+    "ru": "Язык"
+  },
+  "한국어": {
+    "en": "한국어",
+    "ru": "한국어"
+  },
+  "추가 기능": {
+    "en": "More",
+    "ru": "Ещё"
+  },
+  "참고문헌": {
+    "en": "References",
+    "ru": "Источники"
+  },
+  "비공개 제보 관리함": {
+    "en": "Private review inbox",
+    "ru": "Закрытый журнал сообщений"
+  },
+  "현재 화면 주소 복사": {
+    "en": "Copy view link",
+    "ru": "Скопировать ссылку на вид"
+  },
+  "검색 결과 CSV 받기": {
+    "en": "Download results as CSV",
+    "ru": "Скачать результаты CSV"
+  },
+  "관계도 이름 모두 표시": {
+    "en": "Show all network labels",
+    "ru": "Показать все имена"
+  },
+  "데이터 v05 · 화면 v05": {
+    "en": "Data v05 · Interface v05",
+    "ru": "Данные v05 · Интерфейс v05"
+  },
+  "생몰연도는 원문에서 먼저 제시된 해로 표시·검색합니다. 불확실한 연도와 원문 표기는 함께 보존합니다.": {
+    "en": "Dates use the first year given in the source. Uncertainty and original wording are preserved.",
+    "ru": "Для отображения и поиска используется первый год, приведённый в источнике. Неопределённость и исходная запись сохранены."
+  },
+  "인물 이름 검색": {
+    "en": "Search names",
+    "ru": "Поиск по имени"
+  },
+  "인물 이름 찾기": {
+    "en": "Find a writer",
+    "ru": "Найти автора"
+  },
+  "검색어 지우기": {
+    "en": "Clear search",
+    "ru": "Очистить поиск"
+  },
+  "인물 검색 결과": {
+    "en": "Name search results",
+    "ru": "Результаты поиска"
+  },
+  "일치하는 인물이 없습니다.": {
+    "en": "No matching writers.",
+    "ru": "Совпадений нет."
+  },
+  "조건을 해제하면 104명 전체에서 찾을 수 있습니다.": {
+    "en": "Clear filters to search all 104 writers.",
+    "ru": "Сбросьте фильтры для поиска среди всех 104 авторов."
+  },
+  "조건": {
+    "en": "Filters",
+    "ru": "Фильтры"
+  },
+  "자료 표시 방식": {
+    "en": "View",
+    "ru": "Вид"
+  },
+  "관계도": {
+    "en": "Network",
+    "ru": "Сеть"
+  },
+  "목록": {
+    "en": "List",
+    "ru": "Список"
+  },
+  "연표": {
+    "en": "Timeline",
+    "ru": "Хронология"
+  },
+  "명": {
+    "en": " writers",
+    "ru": " авторов"
+  },
+  "/ 검색 범위": {
+    "en": " / filtered writers ",
+    "ru": " / в выборке "
+  },
+  "/ 104명": {
+    "en": " / 104 writers",
+    "ru": " / 104 авторов"
+  },
+  "사전 참조": {
+    "en": "Dictionary references",
+    "ru": "Словарные отсылки"
+  },
+  "개": {
+    "en": " references",
+    "ru": " отсылок"
+  },
+  "출신 분류": {
+    "en": "Social background",
+    "ru": "Происхождение"
+  },
+  "출생지": {
+    "en": "Birthplace",
+    "ru": "Место рождения"
+  },
+  "학교": {
+    "en": "Institution",
+    "ru": "Учебное заведение"
+  },
+  "해외 수학 기록 있음": {
+    "en": "Study abroad documented",
+    "ru": "Зарубежное обучение подтверждено"
+  },
+  "해외 수학 기록 미확인": {
+    "en": "Study abroad not documented",
+    "ru": "Зарубежное обучение не подтверждено"
+  },
+  "국가 미기재": {
+    "en": "Country not stated",
+    "ru": "Страна не указана"
+  },
+  "배운 사람": {
+    "en": "Teacher",
+    "ru": "Преподаватель"
+  },
+  "교육 방식": {
+    "en": "Mode of education",
+    "ru": "Форма обучения"
+  },
+  "관등": {
+    "en": "Rank",
+    "ru": "Класс чина"
+  },
+  "등": {
+    "en": " class",
+    "ru": " класс"
+  },
+  "104인 전체": {
+    "en": "All 104 writers",
+    "ru": "Все 104 автора"
+  },
+  "조건에 맞는 인물이 없습니다": {
+    "en": "No writers match these filters",
+    "ru": "Нет авторов по заданным условиям"
+  },
+  "출신·학교·연도 조건을 조정해 주세요.": {
+    "en": "Adjust the background, institution or year filters.",
+    "ru": "Измените фильтры происхождения, учебного заведения или дат."
+  },
+  "104인 전체 보기": {
+    "en": "Show all 104 writers",
+    "ru": "Показать всех 104 авторов"
+  },
+  "인물 목록": {
+    "en": "Writers",
+    "ru": "Авторы"
+  },
+  "인물을 선택하면 상세 정보가 열립니다.": {
+    "en": "Select a writer to see details.",
+    "ru": "Выберите автора для просмотра сведений."
+  },
+  "인물 정렬": {
+    "en": "Sort writers",
+    "ru": "Сортировка авторов"
+  },
+  "연결수순 · 104인 기준": {
+    "en": "By links within 104 writers",
+    "ru": "По числу связей среди 104 авторов"
+  },
+  "이름순": {
+    "en": "By name",
+    "ru": "По имени"
+  },
+  "출생 연도순": {
+    "en": "By birth year",
+    "ru": "По году рождения"
+  },
+  "인물": {
+    "en": "Writer",
+    "ru": "Автор"
+  },
+  "생몰 연도": {
+    "en": "Life dates",
+    "ru": "Годы жизни"
+  },
+  "참조 수": {
+    "en": "References",
+    "ru": "Отсылки"
+  },
+  "불확실 또는 미기재 연도 포함": {
+    "en": "Includes uncertain or missing dates",
+    "ru": "Есть неточные или отсутствующие даты"
+  },
+  "* 불확실·미기재 연도 포함 · 참조 수는 필터와 관계없이 104인 내부 기준입니다.": {
+    "en": "* Uncertain or missing dates. Reference counts always use the network of 104 writers.",
+    "ru": "* Неточные или отсутствующие даты. Число отсылок всегда рассчитано для сети 104 авторов."
+  },
+  "조건 창 닫기": {
+    "en": "Close filters",
+    "ru": "Закрыть фильтры"
+  },
+  "탐색 조건": {
+    "en": "Search filters",
+    "ru": "Условия поиска"
+  },
+  "조건으로 모아보기": {
+    "en": "Filter writers",
+    "ru": "Отбор авторов"
+  },
+  "탐색 조건 닫기": {
+    "en": "Close search filters",
+    "ru": "Закрыть условия поиска"
+  },
+  "모든 출신 분류": {
+    "en": "All backgrounds",
+    "ru": "Любое происхождение"
+  },
+  "모든 출생지": {
+    "en": "All birthplaces",
+    "ru": "Любое место рождения"
+  },
+  "모든 확인된 재학 기관": {
+    "en": "All documented institutions",
+    "ru": "Все подтверждённые учебные заведения"
+  },
+  "기관명과 수학 근거가 확인된 기록만 검색합니다. 전체 교육 이력은 인물 상세에서 확인할 수 있습니다.": {
+    "en": "Filters use named institutions with documented attendance. Full education records are available in the writer details.",
+    "ru": "Фильтр использует названные учреждения с подтверждённым обучением. Все записи доступны в карточке автора."
+  },
+  "해외 수학": {
+    "en": "Study abroad",
+    "ru": "Обучение за рубежом"
+  },
+  "모두": {
+    "en": "All",
+    "ru": "Все"
+  },
+  "기록 있음": {
+    "en": "Documented",
+    "ru": "Подтверждено"
+  },
+  "기록 미확인": {
+    "en": "Not documented",
+    "ru": "Не подтверждено"
+  },
+  "수학 국가": {
+    "en": "Country of study",
+    "ru": "Страна обучения"
+  },
+  "국가 기준": {
+    "en": "Country basis",
+    "ru": "Принцип указания страны"
+  },
+  "당시": {
+    "en": "Historical",
+    "ru": "В то время"
+  },
+  "현재": {
+    "en": "Present-day",
+    "ru": "Сегодня"
+  },
+  "모든 국가": {
+    "en": "All countries",
+    "ru": "Все страны"
+  },
+  "국가 미확인": {
+    "en": "Country unknown",
+    "ru": "Страна не установлена"
+  },
+  "도시·시기에 따른 국가명을 보완했습니다. ‘현재’는 지금의 지리적 위치입니다. 유학·연수와 해외 체류 중 학습을 포함하며, 계획과 러시아 이주 전 교육은 제외합니다. ‘기록 미확인’은 유학하지 않았다는 뜻이 아닙니다.": {
+    "en": "Countries are matched to place and period; “Present-day” refers to current geography. Includes study and training during stays abroad; excludes plans and education before moving to Russia. “Not documented” does not mean no study abroad occurred.",
+    "ru": "Страны соотнесены с местом и временем; «Сегодня» означает современное положение. Включено обучение во время пребывания за рубежом; планы и обучение до переезда в Россию исключены. «Не подтверждено» не означает, что обучения не было."
+  },
+  "교육·관등 조건 더 보기": {
+    "en": "Education and rank filters",
+    "ru": "Обучение и чины"
+  },
+  "모든 교육 방식": {
+    "en": "All modes of education",
+    "ru": "Все формы обучения"
+  },
+  "기관 수학": {
+    "en": "Institutional study",
+    "ru": "Обучение в учреждении"
+  },
+  "가정교육": {
+    "en": "Home education",
+    "ru": "Домашнее образование"
+  },
+  "교사 지도·개인 교습": {
+    "en": "Tutoring and private lessons",
+    "ru": "Обучение у наставника и частные уроки"
+  },
+  "독학": {
+    "en": "Self-study",
+    "ru": "Самообразование"
+  },
+  "모든 교사·교수": {
+    "en": "All teachers",
+    "ru": "Все преподаватели"
+  },
+  "모든 관등": {
+    "en": "All ranks",
+    "ru": "Все классы чинов"
+  },
+  "연도": {
+    "en": "Year",
+    "ru": "Год"
+  },
+  "출생 연도 범위": {
+    "en": "Birth year range",
+    "ru": "Диапазон годов рождения"
+  },
+  "해당 기간에 생존": {
+    "en": "Alive during period",
+    "ru": "Жил в указанный период"
+  },
+  "시작 연도": {
+    "en": "Start year",
+    "ru": "Начальный год"
+  },
+  "시작": {
+    "en": "From",
+    "ru": "С"
+  },
+  "끝 연도": {
+    "en": "End year",
+    "ru": "Конечный год"
+  },
+  "끝": {
+    "en": "To",
+    "ru": "По"
+  },
+  "시작 연도가 끝 연도보다 큽니다.": {
+    "en": "Start year is later than end year.",
+    "ru": "Начальный год позже конечного."
+  },
+  "연도 값이 없는 인물 포함": {
+    "en": "Include writers with missing dates",
+    "ru": "Включать авторов без дат"
+  },
+  "불확실한 연도도 원문에 먼저 나온 해로 검색합니다. 날짜가 전혀 없으면 위 선택에 따릅니다.": {
+    "en": "Uncertain dates use the first year in the source. Missing dates follow the option above.",
+    "ru": "Для неточных дат используется первый год из источника. Отсутствующие даты учитываются согласно выбранной опции."
+  },
+  "수업용 예시": {
+    "en": "Teaching example",
+    "ru": "Пример для занятия"
+  },
+  "1750년에 생존한 인물": {
+    "en": "Writers alive in 1750",
+    "ru": "Авторы, жившие в 1750 году"
+  },
+  "우선 표시 연도 기준이며, 생애는 활동 기간을 뜻하지 않습니다.": {
+    "en": "Uses primary display dates. Lifespan is not a period of activity.",
+    "ru": "Используются основные отображаемые даты. Годы жизни не равнозначны периоду деятельности."
+  },
+  "초기화": {
+    "en": "Reset",
+    "ru": "Сбросить"
+  },
+  "명 보기": {
+    "en": " writers: show results",
+    "ru": " авторов: показать"
+  },
+  "연표 선택에서 해제했습니다.": {
+    "en": "Removed from the timeline selection.",
+    "ru": "Удалено из выбранных для хронологии."
+  },
+  "연표에 추가했습니다. 연표의 ‘선택 인물만’에서 비교하세요.": {
+    "en": "Added to timeline. Compare under “Selected writers”.",
+    "ru": "Добавлено в хронологию. Сравните в режиме «Выбранные авторы»."
+  },
+  "사전 항목 사이의 참조를 연결했습니다. 실제 교류 관계를 뜻하지 않습니다.": {
+    "en": "Links show references between dictionary entries, not personal interactions.",
+    "ru": "Связи обозначают отсылки между словарными статьями, а не личные контакты."
+  },
+  "순서 미확정·복수 기록": {
+    "en": "Order uncertain · multiple records",
+    "ru": "Порядок не установлен · несколько записей"
+  },
+  "시기:": {
+    "en": "Period:",
+    "ru": "Период:"
+  },
+  "졸업 여부와 관계없이 확인된 기관 수학 기록을 사용합니다. 개인 교습·가정교육은 별도로 표시합니다. 마지막 순서를 정할 수 없으면 관련 기록을 함께 표시합니다.": {
+    "en": "Uses documented institutional study, whether completed or not. Tutoring and home education appear separately. Records are shown together when their final order is uncertain.",
+    "ru": "Учитывается подтверждённое обучение независимо от окончания. Частные уроки и домашнее образование показаны отдельно. Если порядок не установлен, записи приведены вместе."
+  },
+  "마지막 교육(기관)": {
+    "en": "Last institution attended",
+    "ru": "Последнее учебное заведение"
+  },
+  "이전 교육(기관)": {
+    "en": "Earlier institution attended",
+    "ru": "Предыдущее учебное заведение"
+  },
+  "개인 교습": {
+    "en": "Private lessons",
+    "ru": "Частные уроки"
+  },
+  "교사 지도": {
+    "en": "Teacher-led study",
+    "ru": "Обучение у наставника"
+  },
+  "지도 관계": {
+    "en": "Mentorship",
+    "ru": "Наставничество"
+  },
+  "교육·양육 담당": {
+    "en": "Educational guardian",
+    "ru": "Воспитатель"
+  },
+  "해외 유학·연수": {
+    "en": "Study or training abroad",
+    "ru": "Учёба или стажировка за рубежом"
+  },
+  "해외 체류 중 학습": {
+    "en": "Learning during a stay abroad",
+    "ru": "Обучение во время пребывания за рубежом"
+  },
+  "교육 여행": {
+    "en": "Educational travel",
+    "ru": "Образовательное путешествие"
+  },
+  "러시아 이주 전 교육": {
+    "en": "Education before moving to Russia",
+    "ru": "Образование до переезда в Россию"
+  },
+  "맥락 확인 필요": {
+    "en": "Context needs review",
+    "ru": "Контекст требует проверки"
+  },
+  "장소 미기재": {
+    "en": "Place not stated",
+    "ru": "Место не указано"
+  },
+  "지도 관계 확인 필요": {
+    "en": "Teaching relationship needs review",
+    "ru": "Отношения с наставником требуют проверки"
+  },
+  "원문 근거": {
+    "en": "Original evidence",
+    "ru": "Основание в оригинале"
+  },
+  "교육 기록": {
+    "en": "Education record",
+    "ru": "Запись об образовании"
+  },
+  "건": {
+    "en": " records",
+    "ru": " записей"
+  },
+  "현재 위치": {
+    "en": "Present-day location",
+    "ru": "Современное положение"
+  },
+  "국가 후보:": {
+    "en": "Possible countries:",
+    "ru": "Возможные страны:"
+  },
+  "계획·실현 미확인": {
+    "en": "Planned; not confirmed as realized",
+    "ru": "План; осуществление не подтверждено"
+  },
+  "수학 여부 확인 필요": {
+    "en": "Attendance needs review",
+    "ru": "Факт обучения требует проверки"
+  },
+  "국가명 확인 근거": {
+    "en": "Evidence for country assignment",
+    "ru": "Основание для определения страны"
+  },
+  "사전의 국가 표기:": {
+    "en": "Country in the dictionary:",
+    "ru": "Название страны в словаре:"
+  },
+  "교육기관": {
+    "en": "Educational institutions",
+    "ru": "Учебные заведения"
+  },
+  "졸업 여부와 관계없이 수학 기록을 표시합니다.": {
+    "en": "Study is shown regardless of graduation.",
+    "ru": "Обучение показано независимо от окончания."
+  },
+  "교사 지도·가정교육": {
+    "en": "Tutoring and home education",
+    "ru": "Наставники и домашнее образование"
+  },
+  "그 밖의 교육 기록": {
+    "en": "Other education records",
+    "ru": "Другие записи об образовании"
+  },
+  "원문에 명시": {
+    "en": "Explicit in source",
+    "ru": "Прямо указано"
+  },
+  "표준화": {
+    "en": "Normalized",
+    "ru": "Нормализовано"
+  },
+  "불확실": {
+    "en": "Uncertain",
+    "ru": "Неопределённо"
+  },
+  "상충": {
+    "en": "Conflicting",
+    "ru": "Противоречие"
+  },
+  "기재 없음": {
+    "en": "Not stated",
+    "ru": "Не указано"
+  },
+  "해당 없음": {
+    "en": "Not applicable",
+    "ru": "Неприменимо"
+  },
+  "인용 목적": {
+    "en": "Purpose of citation",
+    "ru": "Назначение цитаты"
+  },
+  "적용 범위": {
+    "en": "Scope",
+    "ru": "Область применения"
+  },
+  "이 항목에 연결된 인용 근거가 없습니다.": {
+    "en": "No citation is linked to this field.",
+    "ru": "К этому полю цитата не привязана."
+  },
+  "상태 없음": {
+    "en": "No status",
+    "ru": "Статус не указан"
+  },
+  "자료 간 불일치 · 원문과 후보 값을 보존합니다. 연구자 판단이 필요합니다.": {
+    "en": "Sources disagree. Original statements and candidate values are preserved for researcher review.",
+    "ru": "Источники расходятся. Исходные формулировки и варианты сохранены для решения исследователя."
+  },
+  "저장 값": {
+    "en": "Stored value",
+    "ru": "Сохранённое значение"
+  },
+  "원문 표기": {
+    "en": "Original wording",
+    "ru": "Исходная запись"
+  },
+  "상태 코드": {
+    "en": "Status code",
+    "ru": "Код статуса"
+  },
+  "적용 규칙": {
+    "en": "Rule applied",
+    "ru": "Применённое правило"
+  },
+  "닫기": {
+    "en": "Close",
+    "ru": "Закрыть"
+  },
+  "104인 사전 참조 관계도": {
+    "en": "Dictionary reference network of 104 writers",
+    "ru": "Сеть словарных отсылок 104 авторов"
+  },
+  "강조된 선은 선택 인물의 사전 참조입니다.": {
+    "en": "Highlighted links are references involving the selected writer.",
+    "ru": "Выделены отсылки, связанные с выбранным автором."
+  },
+  "인물을 누르거나, 이름으로 찾아보세요.": {
+    "en": "Select a writer or search by name.",
+    "ru": "Выберите автора или найдите его по имени."
+  },
+  "크기: 104인 내부 연결수": {
+    "en": "Size: links within the 104 writers",
+    "ru": "Размер: связи среди 104 авторов"
+  },
+  "관계도 확대와 축소": {
+    "en": "Network zoom",
+    "ru": "Масштаб сети"
+  },
+  "관계도 축소": {
+    "en": "Zoom out",
+    "ru": "Уменьшить"
+  },
+  "관계도 확대": {
+    "en": "Zoom in",
+    "ru": "Увеличить"
+  },
+  "화면에 맞추기": {
+    "en": "Fit to view",
+    "ru": "Вписать в окно"
+  },
+  "선택 인물 상세": {
+    "en": "Selected writer details",
+    "ru": "Карточка выбранного автора"
+  },
+  "← 이전 인물": {
+    "en": "← Previous writer",
+    "ru": "← Предыдущий автор"
+  },
+  "· 제": {
+    "en": " · Vol. ",
+    "ru": " · Вып. "
+  },
+  "권": {
+    "en": " volume",
+    "ru": " выпуск"
+  },
+  "인물 상세 닫기": {
+    "en": "Close writer details",
+    "ru": "Закрыть карточку"
+  },
+  "과 연결 ·": {
+    "en": " connected · ",
+    "ru": " связанных · "
+  },
+  "참조": {
+    "en": "references",
+    "ru": "отсылок"
+  },
+  "104인 기준": {
+    "en": "within 104 writers",
+    "ru": "среди 104 авторов"
+  },
+  "✓ 연표에 선택됨": {
+    "en": "✓ Selected for timeline",
+    "ru": "✓ Выбран для хронологии"
+  },
+  "＋ 연표에 추가": {
+    "en": "＋ Add to timeline",
+    "ru": "＋ В хронологию"
+  },
+  "상세 정보 종류": {
+    "en": "Detail tabs",
+    "ru": "Разделы карточки"
+  },
+  "기본 정보": {
+    "en": "Overview",
+    "ru": "Основные сведения"
+  },
+  "출처와 근거": {
+    "en": "Sources and evidence",
+    "ru": "Источники и основания"
+  },
+  "사망지": {
+    "en": "Place of death",
+    "ru": "Место смерти"
+  },
+  "연결된 인물": {
+    "en": "Linked writers",
+    "ru": "Связанные авторы"
+  },
+  "104인 내부 사전 참조 기준입니다. 두 방향의 참조가 있더라도 인물은 한 번만 셉니다.": {
+    "en": "Based on references within 104 writers. Each person is counted once even with references in both directions.",
+    "ru": "По отсылкам среди 104 авторов. Каждый автор учитывается один раз, даже при отсылках в обе стороны."
+  },
+  "값과 출처를 자세히 확인하기": {
+    "en": "View values and sources",
+    "ru": "Посмотреть значения и источники"
+  },
+  "항목을 펼치면 저장 값·원문·판단 상태와 인용 페이지를 볼 수 있습니다.": {
+    "en": "Expand a field to see values, original wording, review status and cited pages.",
+    "ru": "Разверните поле, чтобы увидеть значения, оригинал, статус проверки и страницы."
+  },
+  "검토 사항": {
+    "en": "Review notes",
+    "ru": "Замечания для проверки"
+  },
+  "검토 항목": {
+    "en": "Review item",
+    "ru": "Объект проверки"
+  },
+  "검토 내용 미기재": {
+    "en": "Review note not stated",
+    "ru": "Замечание не указано"
+  },
+  "검토 후보": {
+    "en": "Candidate values",
+    "ru": "Варианты"
+  },
+  "오류·보완 제보": {
+    "en": "Suggest a correction",
+    "ru": "Сообщить об ошибке"
+  },
+  "제": {
+    "en": "Vol. ",
+    "ru": "Вып. "
+  },
+  "권 · PDF": {
+    "en": " · PDF",
+    "ru": " · PDF"
+  },
+  "쪽": {
+    "en": " page",
+    "ru": " стр."
+  },
+  "인물 정보의 사전 근거": {
+    "en": "Dictionary source for biographical data",
+    "ru": "Словарный источник биографических данных"
+  },
+  "국가명 대응을 위한 역사 지리 출처": {
+    "en": "Historical geography source for country assignment",
+    "ru": "Историко-географический источник для определения страны"
+  },
+  "출처 열기 ↗": {
+    "en": "Open source ↗",
+    "ru": "Открыть источник ↗"
+  },
+  "제공 자료에서 확인된 서지 정보를 표시합니다. 인쇄면과 PDF 쪽수는 구별합니다.": {
+    "en": "Bibliographic information verified in the supplied materials. Printed and PDF pages are distinct.",
+    "ru": "Сведения об издании подтверждены предоставленными материалами. Печатные страницы и страницы PDF различаются."
+  },
+  "전기 사실의 추가 근거가 아닌 지명·국가 대응 자료입니다.": {
+    "en": "Used for place and country assignment, not additional biographical claims.",
+    "ru": "Используется для сопоставления мест и стран, а не для новых биографических утверждений."
+  },
+  "서지 확인 필요": {
+    "en": "Bibliography needs verification",
+    "ru": "Библиография требует проверки"
+  },
+  "출처 확인 필요": {
+    "en": "Source needs verification",
+    "ru": "Источник требует проверки"
+  },
+  "인쇄면": {
+    "en": "Print p.",
+    "ru": "Печ. с."
+  },
+  "약어를 펼치면 서지와 출처를 확인할 수 있습니다.": {
+    "en": "Expand an abbreviation to see its bibliography and source.",
+    "ru": "Разверните сокращение для просмотра библиографии и источника."
+  },
+  "사전": {
+    "en": "Dictionary",
+    "ru": "Словарь"
+  },
+  "역사 지리": {
+    "en": "Historical geography",
+    "ru": "Историческая география"
+  },
+  "인물 전반": {
+    "en": "General information",
+    "ru": "Общие сведения"
+  },
+  "해외 수학 기록": {
+    "en": "Study abroad records",
+    "ru": "Записи об обучении за рубежом"
+  },
+  "요청을 처리하지 못했습니다. 다시 시도해 주세요.": {
+    "en": "Unable to process the request. Please try again.",
+    "ru": "Не удалось обработать запрос. Повторите попытку."
+  },
+  "자료가 갱신되었습니다. 새로고침 후 다시 제출해 주세요.": {
+    "en": "The data has changed. Reload before submitting.",
+    "ru": "Данные обновились. Обновите страницу перед отправкой."
+  },
+  "제보가 많습니다. 한 시간 뒤 다시 시도해 주세요.": {
+    "en": "Submission limit reached. Try again in one hour.",
+    "ru": "Достигнут лимит сообщений. Повторите через час."
+  },
+  "관리자만 열 수 있습니다.": {
+    "en": "Administrator access required.",
+    "ru": "Доступ только для администратора."
+  },
+  "다른 변경이 있습니다. 새로고침 후 확인해 주세요.": {
+    "en": "Another change was saved. Refresh and review it.",
+    "ru": "Сохранено другое изменение. Обновите страницу."
+  },
+  "제보를 접수했습니다.": {
+    "en": "Report received.",
+    "ru": "Сообщение принято."
+  },
+  "교수님이 근거를 검토한 뒤 반영 여부를 결정합니다.": {
+    "en": "The researcher will review the evidence and decide whether to apply the change.",
+    "ru": "Исследователь проверит основания и решит, следует ли внести изменение."
+  },
+  "접수번호:": {
+    "en": "Report ID:",
+    "ru": "Номер сообщения:"
+  },
+  "항목": {
+    "en": "Field",
+    "ru": "Поле"
+  },
+  "현재 정보 · 데이터": {
+    "en": "Current information · Data",
+    "ru": "Текущие сведения · Данные"
+  },
+  "제보 유형": {
+    "en": "Report type",
+    "ru": "Тип сообщения"
+  },
+  "오류 정정": {
+    "en": "Correction",
+    "ru": "Исправление"
+  },
+  "정보 보완": {
+    "en": "Addition",
+    "ru": "Дополнение"
+  },
+  "출처 추가": {
+    "en": "New source",
+    "ru": "Новый источник"
+  },
+  "확인이 필요한 내용": {
+    "en": "What needs review",
+    "ru": "Что требует проверки"
+  },
+  "수정·보완 제안": {
+    "en": "Proposed change",
+    "ru": "Предлагаемое изменение"
+  },
+  "근거 문헌·쪽수·링크": {
+    "en": "Source, page and link",
+    "ru": "Источник, страница и ссылка"
+  },
+  "가능하면 근거 구절도 함께 적어 주세요.": {
+    "en": "Include the relevant passage if possible.",
+    "ru": "По возможности приведите соответствующий фрагмент."
+  },
+  "답신용 이메일 · 선택": {
+    "en": "Reply email · Optional",
+    "ru": "Email для ответа · Необязательно"
+  },
+  "제보 내용과 연락처는 비공개로 보관하며 검토·답신에만 사용합니다. 연구 데이터는 자동으로 바뀌지 않습니다.": {
+    "en": "Reports and contact details are private and used only for review and replies. Research data is not changed automatically.",
+    "ru": "Сообщения и контактные данные закрыты и используются только для проверки и ответа. Исследовательские данные не меняются автоматически."
+  },
+  "접수 중…": {
+    "en": "Submitting…",
+    "ru": "Отправка…"
+  },
+  "제보 제출": {
+    "en": "Submit report",
+    "ru": "Отправить сообщение"
+  },
+  "접수": {
+    "en": "Received",
+    "ru": "Получено"
+  },
+  "검토 중": {
+    "en": "Under review",
+    "ru": "На проверке"
+  },
+  "반영": {
+    "en": "Applied",
+    "ru": "Внесено"
+  },
+  "보류": {
+    "en": "On hold",
+    "ru": "Отложено"
+  },
+  "미반영": {
+    "en": "Not applied",
+    "ru": "Не внесено"
+  },
+  "현재 정보": {
+    "en": "Current information",
+    "ru": "Текущие сведения"
+  },
+  "답신용 이메일": {
+    "en": "Reply email",
+    "ru": "Email для ответа"
+  },
+  "기준 버전": {
+    "en": "Data version",
+    "ru": "Версия данных"
+  },
+  "해당 인물 열기": {
+    "en": "Open writer",
+    "ru": "Открыть карточку"
+  },
+  "이메일 알림": {
+    "en": "Email notification",
+    "ru": "Уведомление по email"
+  },
+  "발송 완료": {
+    "en": "Sent",
+    "ru": "Отправлено"
+  },
+  "발송 대기": {
+    "en": "Pending",
+    "ru": "Ожидает отправки"
+  },
+  "발송 실패": {
+    "en": "Failed",
+    "ru": "Ошибка отправки"
+  },
+  "연결 필요": {
+    "en": "Setup required",
+    "ru": "Требуется настройка"
+  },
+  "처리 상태": {
+    "en": "Review status",
+    "ru": "Статус рассмотрения"
+  },
+  "판단 근거": {
+    "en": "Decision rationale",
+    "ru": "Обоснование решения"
+  },
+  "반영한 데이터 버전": {
+    "en": "Updated data version",
+    "ru": "Версия обновлённых данных"
+  },
+  "수정 후 정보": {
+    "en": "Revised information",
+    "ru": "Исправленные сведения"
+  },
+  "실제 데이터 개정을 마친 뒤 기록하세요. 이 저장은 연구 데이터를 수정하지 않습니다.": {
+    "en": "Record this after updating the research data. Saving here does not modify the dataset.",
+    "ru": "Заполните после изменения исследовательских данных. Эта запись не меняет набор данных."
+  },
+  "저장 중…": {
+    "en": "Saving…",
+    "ru": "Сохранение…"
+  },
+  "검토 기록 저장": {
+    "en": "Save review",
+    "ru": "Сохранить решение"
+  },
+  "처리 이력": {
+    "en": "Review history",
+    "ru": "История рассмотрения"
+  },
+  "새로고침": {
+    "en": "Refresh",
+    "ru": "Обновить"
+  },
+  "이메일 알림 연결됨": {
+    "en": "Email notifications configured",
+    "ru": "Email-уведомления настроены"
+  },
+  "이메일 알림 연결 필요": {
+    "en": "Email notifications need setup",
+    "ru": "Требуется настройка email-уведомлений"
+  },
+  "접수·검토 기록은 저장됩니다. 이메일 자동 알림은 발송 서비스 연결 후 사용할 수 있습니다.": {
+    "en": "Reports and reviews are saved. Automatic email alerts require a mail service connection.",
+    "ru": "Сообщения и решения сохраняются. Для автоматических email-уведомлений нужно подключить почтовую службу."
+  },
+  "접수된 제보가 없습니다.": {
+    "en": "No reports received.",
+    "ru": "Сообщений пока нет."
+  },
+  "더 보기": {
+    "en": "Load more",
+    "ru": "Показать ещё"
+  },
+  "생애 연표": {
+    "en": "Life timeline",
+    "ru": "Хронология жизни"
+  },
+  "전체 보기": {
+    "en": "Show all",
+    "ru": "Показать всех"
+  },
+  "선택 인물만": {
+    "en": "Selected writers",
+    "ru": "Выбранные авторы"
+  },
+  "인물 고르기": {
+    "en": "Choose writers",
+    "ru": "Выбрать авторов"
+  },
+  "연표에 넣을 인물 찾기": {
+    "en": "Find writers for the timeline",
+    "ru": "Найти авторов для хронологии"
+  },
+  "이름으로 찾아 선택": {
+    "en": "Search and select by name",
+    "ru": "Найти по имени и выбрать"
+  },
+  "선택 해제": {
+    "en": "Clear selection",
+    "ru": "Снять выбор"
+  },
+  "선택한": {
+    "en": "Selected: ",
+    "ru": "Выбрано: "
+  },
+  "명 연표 보기": {
+    "en": " writers: view timeline",
+    "ru": " авторов: хронология"
+  },
+  "표시 · 자료에 먼저 제시된 해를 사용합니다. 점선·*는 불확실한 연도(": {
+    "en": " shown. Uses the first year in the source. Dashed lines and * indicate uncertain dates (",
+    "ru": " показано. Используется первый год из источника. Пунктир и * обозначают неточные даты ("
+  },
+  "명)이며, 원문은 인물명 아래에 그대로 표시합니다. 생애는 활동 기간을 뜻하지 않습니다.": {
+    "en": " writers). Original dates appear below names. Lifespan is not a period of activity.",
+    "ru": " авторов). Исходные даты приведены под именами. Годы жизни не равнозначны периоду деятельности."
+  },
+  "인물 · 원문 생몰연도": {
+    "en": "Writer · Original life dates",
+    "ru": "Автор · Исходные годы жизни"
+  },
+  "연도 미기재": {
+    "en": "Dates not stated",
+    "ru": "Даты не указаны"
+  },
+  "원문 연도 확인 필요": {
+    "en": "Original dates need review",
+    "ru": "Исходные даты требуют проверки"
+  },
+  "연표에 넣을 인물을 선택해 주세요": {
+    "en": "Choose writers for the timeline",
+    "ru": "Выберите авторов для хронологии"
+  },
+  "인물 고르기에서 여러 명을 체크하거나 인물 상세에서 연표에 추가할 수 있습니다.": {
+    "en": "Select multiple writers in the picker, or add them from a writer’s details.",
+    "ru": "Выберите нескольких авторов в списке или добавьте их из карточки."
+  },
+  "현재 검색 조건 밖의 선택 인물은 조건을 해제하면 보입니다.": {
+    "en": "Clear filters to show selected writers outside the current results.",
+    "ru": "Сбросьте фильтры, чтобы увидеть выбранных авторов вне текущей выборки."
+  },
+  "출생연도": {
+    "en": "Year of birth",
+    "ru": "Год рождения"
+  },
+  "출생 지역": {
+    "en": "Birth region",
+    "ru": "Регион рождения"
+  },
+  "사망연도": {
+    "en": "Year of death",
+    "ru": "Год смерти"
+  },
+  "사망 지역": {
+    "en": "Death region",
+    "ru": "Регион смерти"
+  },
+  "출신 배경 원문": {
+    "en": "Background: original wording",
+    "ru": "Происхождение: исходная запись"
+  },
+  "관등 숫자": {
+    "en": "Rank class number",
+    "ru": "Номер класса чина"
+  },
+  "관등명": {
+    "en": "Rank title",
+    "ru": "Наименование чина"
+  },
+  "해외 수학 국가": {
+    "en": "Countries of study abroad",
+    "ru": "Страны зарубежного обучения"
+  },
+  "{n}명의 자료를 CSV로 내보냈습니다.": {
+    "en": "Exported {n} writers as CSV.",
+    "ru": "Экспортировано авторов: {n}."
+  },
+  "{n}명": {
+    "en": "{n} writers",
+    "ru": "{n} авторов"
+  },
+  "{n}개": {
+    "en": "{n} references",
+    "ru": "{n} отсылок"
+  },
+  "{n}건": {
+    "en": "{n} records",
+    "ru": "{n} записей"
+  },
+  "수학 기록 부정": {
+    "en": "Study explicitly denied",
+    "ru": "Обучение отрицается источником"
+  },
+  "계획·미실현": {
+    "en": "Planned or unrealized",
+    "ru": "План или неосуществлённое обучение"
+  },
+  "별도 교육 관련 기록": {
+    "en": "Other education-related record",
+    "ru": "Другая запись об образовании"
+  },
+  "기관 미기재": {
+    "en": "Institution not stated",
+    "ru": "Учреждение не указано"
+  },
+  "과 연결 · 참조": {
+    "en": " linked · References: ",
+    "ru": " связанных · Отсылок: "
+  },
+  "{n}명의 인물과 {n}개의 방향성 사전 참조. 이름 검색이나 인물 목록으로도 인물을 선택할 수 있습니다.": {
+    "en": "{n} writers and {n} directed dictionary references. Select a writer using name search or the list.",
+    "ru": "{n} авторов и {n} направленных словарных отсылок. Выберите автора через поиск или список."
+  },
+  "관계도 출처": {
+    "en": "Network sources",
+    "ru": "Источники сети"
+  },
+  "관계도 출처 보기": {
+    "en": "View network sources",
+    "ru": "Посмотреть источники сети"
+  },
+  "사전·원 관계도 출처": {
+    "en": "Dictionary & original network",
+    "ru": "Словарь и исходная сеть"
+  },
+  "이 관계도는 아래 사전과 기존 관계망 데이터를 바탕으로 재구성했습니다.": {
+    "en": "This network is adapted from the dictionary and existing network data cited below.",
+    "ru": "Эта сеть построена на основе словаря и ранее опубликованных сетевых данных, указанных ниже."
+  },
+  "기초 문헌": {
+    "en": "Dictionary source",
+    "ru": "Словарь-источник"
+  },
+  "제1–3권 (1988·1999·2010). 권별 서지는 아래에 있습니다.": {
+    "en": "Volumes 1–3 (1988, 1999, 2010). Bibliographic details for each volume appear below.",
+    "ru": "Выпуски 1–3 (1988, 1999, 2010). Библиографические сведения о каждом выпуске приведены ниже."
+  },
+  "원 관계망 데이터": {
+    "en": "Original network dataset",
+    "ru": "Исходный сетевой датасет"
+  },
+  "제공된 원본 파일:": {
+    "en": "Supplied source files:",
+    "ru": "Предоставленные исходные файлы:"
+  },
+  "ИРЛИ의 원 관계도": {
+    "en": "Original ИРЛИ visualization",
+    "ru": "Исходная визуализация ИРЛИ"
+  },
+  "ИРЛИ 공식 프로젝트 안내 ↗": {
+    "en": "Official ИРЛИ project listing ↗",
+    "ru": "Официальная страница проектов ИРЛИ ↗"
+  },
+  "이번 프로젝트의 재구성": {
+    "en": "Adaptation in this project",
+    "ru": "Переработка в данном проекте"
+  },
+  "원 관계망 780명·4,440개 참조에서 선정된 104인의 내부 참조 1,438개를 표시합니다. 참조 방향은 보존하고 자기 자신으로 향하는 선은 제외했습니다.": {
+    "en": "From the original network of 780 people and 4,440 references, this project displays 1,438 references within a selected group of 104 people. Directions are preserved; self-loops are omitted.",
+    "ru": "Из исходной сети, включающей 780 персон и 4 440 ссылок, здесь показаны 1 438 ссылок внутри выбранной группы из 104 персон. Направления сохранены; петли исключены."
+  },
+  "본 프로젝트는 104인 범위의 관계도 배치와 탐색 화면을 새로 구성하고, 사전 근거를 연결한 인물·교육 정보와 다국어 화면을 추가했습니다. 원 관계망 데이터의 제작은 위 출처에 귀속됩니다.": {
+    "en": "This project provides a new layout and exploration interface for 104 people, adds biographical and education information linked to dictionary evidence, and offers a multilingual interface. Credit for the original network dataset belongs to the source cited above.",
+    "ru": "В данном проекте созданы новая раскладка и интерфейс исследования сети из 104 персон, добавлены биографические и образовательные сведения со ссылками на словарные свидетельства, а также многоязычный интерфейс. Авторство исходного сетевого датасета принадлежит указанному выше источнику."
+  },
+  "관계선은 사전 항목 간 참조이며, 실제 교류·친분·영향 관계를 그 자체로 입증하지 않습니다.": {
+    "en": "Edges represent references between dictionary entries; they do not by themselves establish personal contact, friendship or influence.",
+    "ru": "Рёбра отражают ссылки между словарными статьями; сами по себе они не доказывают личных контактов, дружбы или влияния."
+  },
+  "데이터 v05 · 화면 v06": {
+    "en": "Data v05 · Interface v06",
+    "ru": "Данные v05 · Интерфейс v06"
+  },
+  "소개": {
+    "en": "About",
+    "ru": "О сайте"
+  },
+  "데이터 가공·재구성": {
+    "en": "Data adaptation",
+    "ru": "Обработка и переработка данных"
+  },
+  "러시아 18세기 문학의 인물과 사전 속 참조 관계를 탐색하는 연구·교육용 사이트입니다.": {
+    "en": "A research and teaching site for exploring figures in eighteenth-century Russian literature and references between dictionary entries.",
+    "ru": "Исследовательский и образовательный сайт для изучения персоналий русской литературы XVIII века и отсылок между словарными статьями."
+  },
+  "『18세기 러시아 작가 사전』 1–3권을 바탕으로 제작된 원 관계망에서 104인을 재구성하고, 인물·교육 정보와 문헌 근거를 연결했습니다.": {
+    "en": "The original network, based on volumes 1–3 of the Dictionary of Russian Writers of the Eighteenth Century, has been adapted to a group of 104 people, with biographical and education information linked to documentary evidence.",
+    "ru": "На основе исходной сети, построенной по выпускам 1–3 «Словаря русских писателей XVIII века», выделена группа из 104 персон; биографические и образовательные сведения связаны с документальными свидетельствами."
+  },
+  "이용 방법": {
+    "en": "Using the site",
+    "ru": "Как пользоваться сайтом"
+  },
+  "관계도·목록·연표에서 같은 인물 집합을 살펴볼 수 있습니다.": {
+    "en": "Explore the same group of people in the network, list and timeline views.",
+    "ru": "Исследуйте одну и ту же группу персон в сети, списке и хронологии."
+  },
+  "이름 검색은 인물을 찾아 강조하고, 조건 필터는 표시할 인물의 범위를 좁힙니다.": {
+    "en": "Name search finds and highlights a person; filters narrow the group shown.",
+    "ru": "Поиск по имени находит и выделяет персону; фильтры сужают круг отображаемых персон."
+  },
+  "인물을 선택하면 세부 정보와 사전 원문·쪽수를 확인하고 오류나 보완 의견을 제보할 수 있습니다.": {
+    "en": "Select a person to view details, original dictionary quotations and page references, or suggest a correction or addition.",
+    "ru": "Выберите персону, чтобы посмотреть подробные сведения, цитаты из словаря и номера страниц, а также предложить исправление или дополнение."
+  },
+  "관계선은 사전 항목 간 참조입니다. 실제 교류·친분·영향 관계를 그 자체로 입증하지 않습니다. 불확실한 정보와 원문은 함께 보존합니다.": {
+    "en": "Edges represent references between dictionary entries. They do not by themselves establish personal contact, friendship or influence. Uncertainty and original wording are preserved.",
+    "ru": "Рёбра обозначают отсылки между словарными статьями. Сами по себе они не доказывают личных контактов, дружбы или влияния. Неопределённость сведений и исходные формулировки сохраняются."
+  },
+  "한국어·영어·러시아어로 화면을 이용할 수 있습니다. 인명·기관명과 사전 원문은 원어를 유지합니다.": {
+    "en": "The interface is available in Korean, English and Russian. Personal and institutional names, and original dictionary quotations, retain their source language.",
+    "ru": "Интерфейс доступен на корейском, английском и русском языках. Имена, названия учреждений и цитаты из словаря сохраняются на языке источника."
+  },
+  "자료 출처와 가공 범위 보기": {
+    "en": "View sources and adaptations",
+    "ru": "Источники и объём переработки"
+  },
+  "원 관계망 데이터 이용 조건": {
+    "en": "Original dataset terms",
+    "ru": "Условия использования исходного датасета"
+  },
+  "데이터 v05 · 화면 v07": {
+    "en": "Data v05 · Interface v07",
+    "ru": "Данные v05 · Интерфейс v07"
+  },
+  "데이터 v05 · 화면 v08": {
+    "en": "Data v05 · Interface v08",
+    "ru": "Данные v05 · Интерфейс v08"
+  }
+}

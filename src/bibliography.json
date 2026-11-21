@@ -1,0 +1,374 @@
+[
+  {
+    "id": "srp18-1",
+    "abbreviation": "СРП XVIII–1",
+    "title": "Словарь русских писателей XVIII века. Вып. 1",
+    "year": 1988,
+    "kind": "dictionary",
+    "url": "https://pushkinskijdom.ru/otdel-po-izucheniyu-russkoj-literatury-xviii-veka/spravochniki/",
+    "place": "Ленинград",
+    "coverage": "А–И",
+    "institution": "Институт русской литературы (Пушкинский Дом)",
+    "verified": "2026-11-17"
+  },
+  {
+    "id": "srp18-2",
+    "abbreviation": "СРП XVIII–2",
+    "title": "Словарь русских писателей XVIII века. Вып. 2",
+    "year": 1999,
+    "kind": "dictionary",
+    "url": "https://pushkinskijdom.ru/otdel-po-izucheniyu-russkoj-literatury-xviii-veka/spravochniki/",
+    "place": "Санкт-Петербург",
+    "coverage": "К–П",
+    "institution": "Институт русской литературы (Пушкинский Дом)",
+    "verified": "2026-11-17"
+  },
+  {
+    "id": "srp18-3",
+    "abbreviation": "СРП XVIII–3",
+    "title": "Словарь русских писателей XVIII века. Вып. 3",
+    "year": 2010,
+    "kind": "dictionary",
+    "url": "https://pushkinskijdom.ru/otdel-po-izucheniyu-russkoj-literatury-xviii-veka/spravochniki/",
+    "place": "Санкт-Петербург",
+    "coverage": "Р–Я",
+    "institution": "Институт русской литературы (Пушкинский Дом)",
+    "verified": "2026-11-17"
+  },
+  {
+    "id": "geo-01",
+    "abbreviation": "GEO–01",
+    "title": "www.uni-marburg.de",
+    "year": null,
+    "kind": "geography",
+    "url": "https://www.uni-marburg.de/de/universitaet/profil/geschichte"
+  },
+  {
+    "id": "geo-02",
+    "abbreviation": "GEO–02",
+    "title": "www.archiv.sachsen.de",
+    "year": null,
+    "kind": "geography",
+    "url": "https://www.archiv.sachsen.de/archiv/bestand.jsp?bestandid=10006&oid=01.03&syg_id=332819"
+  },
+  {
+    "id": "geo-03",
+    "abbreviation": "GEO–03",
+    "title": "www.freiberg.de",
+    "year": null,
+    "kind": "geography",
+    "url": "https://www.freiberg.de/stadt-und-buerger/stadt/stadtportrait/geschichte-chronik"
+  },
+  {
+    "id": "geo-04",
+    "abbreviation": "GEO–04",
+    "title": "www.rijksmuseum.nl",
+    "year": null,
+    "kind": "geography",
+    "url": "https://www.rijksmuseum.nl/en/collection/node/The-Republic--2447420802fc4934bd9db55c8c6cc003"
+  },
+  {
+    "id": "geo-05",
+    "abbreviation": "GEO–05",
+    "title": "www.chateauversailles.fr",
+    "year": null,
+    "kind": "geography",
+    "url": "https://www.chateauversailles.fr/decouvrir/histoire/grands-personnages/louis-xv"
+  },
+  {
+    "id": "geo-06",
+    "abbreviation": "GEO–06",
+    "title": "www.uni-leipzig.de",
+    "year": null,
+    "kind": "geography",
+    "url": "https://www.uni-leipzig.de/newsdetail/artikel/da-wo-es-stinkt-und-knallt-was-uns-archivalien-erzaehlen-2022-07-05"
+  },
+  {
+    "id": "geo-07",
+    "abbreviation": "GEO–07",
+    "title": "lviv.travel",
+    "year": null,
+    "kind": "geography",
+    "url": "https://lviv.travel/en/news/zasnuvannia-lvova"
+  },
+  {
+    "id": "geo-08",
+    "abbreviation": "GEO–08",
+    "title": "volodymyrrada.gov.ua",
+    "year": null,
+    "kind": "geography",
+    "url": "https://volodymyrrada.gov.ua/pro-misto/istoriya-mista/"
+  },
+  {
+    "id": "geo-09",
+    "abbreviation": "GEO–09",
+    "title": "dgagaeta.cultura.gov.it",
+    "year": null,
+    "kind": "geography",
+    "url": "https://dgagaeta.cultura.gov.it/public/uploads/documents/Sussidi/65dc165239306.pdf"
+  },
+  {
+    "id": "geo-10",
+    "abbreviation": "GEO–10",
+    "title": "history.state.gov",
+    "year": null,
+    "kind": "geography",
+    "url": "https://history.state.gov/countries/papal-states"
+  },
+  {
+    "id": "geo-11",
+    "abbreviation": "GEO–11",
+    "title": "halle.de",
+    "year": null,
+    "kind": "geography",
+    "url": "https://halle.de/kultur-tourismus/stadtgeschichte/chronik"
+  },
+  {
+    "id": "geo-12",
+    "abbreviation": "GEO–12",
+    "title": "digital.francke-halle.de",
+    "year": null,
+    "kind": "geography",
+    "url": "https://digital.francke-halle.de/mod3a/content/titleinfo/132358"
+  },
+  {
+    "id": "geo-13",
+    "abbreviation": "GEO–13",
+    "title": "www.prlib.ru",
+    "year": null,
+    "kind": "geography",
+    "url": "https://www.prlib.ru/history/619219"
+  },
+  {
+    "id": "geo-14",
+    "abbreviation": "GEO–14",
+    "title": "gsta.preussischer-kulturbesitz.de",
+    "year": null,
+    "kind": "geography",
+    "url": "https://gsta.preussischer-kulturbesitz.de/fileadmin/user_upload_gsta/02_Content/Texte/01_Recherche/inventare_militaerinventar_band_01.pdf"
+  },
+  {
+    "id": "geo-15",
+    "abbreviation": "GEO–15",
+    "title": "www.prlib.ru",
+    "year": null,
+    "kind": "geography",
+    "url": "https://www.prlib.ru/node/417616"
+  },
+  {
+    "id": "geo-16",
+    "abbreviation": "GEO–16",
+    "title": "800anniunipd.it",
+    "year": null,
+    "kind": "geography",
+    "url": "https://800anniunipd.it/en/timeline/il-quattrocento/"
+  },
+  {
+    "id": "geo-17",
+    "abbreviation": "GEO–17",
+    "title": "www.parlamento.pt",
+    "year": null,
+    "kind": "geography",
+    "url": "https://www.parlamento.pt/VisitaParlamento/Paginas/BiogDJose.aspx"
+  },
+  {
+    "id": "geo-18",
+    "abbreviation": "GEO–18",
+    "title": "arquivomunicipal3.cm-lisboa.pt",
+    "year": null,
+    "kind": "geography",
+    "url": "https://arquivomunicipal3.cm-lisboa.pt/x-arqweb/Result.aspx?id=65198&type=Autoridade"
+  },
+  {
+    "id": "geo-19",
+    "abbreviation": "GEO–19",
+    "title": "www.berlin.de",
+    "year": null,
+    "kind": "geography",
+    "url": "https://www.berlin.de/geschichte/8477225-3689745-die-koenigliche-hauptstadt.html"
+  },
+  {
+    "id": "geo-20",
+    "abbreviation": "GEO–20",
+    "title": "www.wroclaw.pl",
+    "year": null,
+    "kind": "geography",
+    "url": "https://www.wroclaw.pl/dla-mieszkanca/kalendarium"
+  },
+  {
+    "id": "geo-21",
+    "abbreviation": "GEO–21",
+    "title": "bip.um.wroc.pl",
+    "year": null,
+    "kind": "geography",
+    "url": "https://bip.um.wroc.pl/artykul/199/3055/dzieje-samorzadu-wroclawia-do-1741-roku"
+  },
+  {
+    "id": "geo-22",
+    "abbreviation": "GEO–22",
+    "title": "www.dresden.de",
+    "year": null,
+    "kind": "geography",
+    "url": "https://www.dresden.de/media/pdf/infoblaetter/Faktum_engl.pdf"
+  },
+  {
+    "id": "geo-23",
+    "abbreviation": "GEO–23",
+    "title": "www.geschichte.sachsen.de",
+    "year": null,
+    "kind": "geography",
+    "url": "https://www.geschichte.sachsen.de/kurfuerstentum-und-fruehbarock-6798.html"
+  },
+  {
+    "id": "geo-24",
+    "abbreviation": "GEO–24",
+    "title": "www.kungligaslotten.se",
+    "year": null,
+    "kind": "geography",
+    "url": "https://www.kungligaslotten.se/english/list-of-swedish-monarchs.html?item=7037c1ab-fa59-4c8e-980c-a61f2ddbff27&sv.12.272b84a8174b4c1b7d94d1b.route=/&sv.target=12.272b84a8174b4c1b7d94d1b"
+  },
+  {
+    "id": "geo-25",
+    "abbreviation": "GEO–25",
+    "title": "www.uni-goettingen.de",
+    "year": null,
+    "kind": "geography",
+    "url": "https://www.uni-goettingen.de/en/90607.html"
+  },
+  {
+    "id": "geo-26",
+    "abbreviation": "GEO–26",
+    "title": "spezialsammlungen.sub.uni-goettingen.de",
+    "year": null,
+    "kind": "geography",
+    "url": "https://spezialsammlungen.sub.uni-goettingen.de/beamtenlisten/_search?lang=en"
+  },
+  {
+    "id": "geo-27",
+    "abbreviation": "GEO–27",
+    "title": "zittau.de",
+    "year": null,
+    "kind": "geography",
+    "url": "https://zittau.de/unsere-stadt/stadtgeschichte-mit-zunftwesen-stadtwappen-und-stadtbraenden"
+  },
+  {
+    "id": "geo-28",
+    "abbreviation": "GEO–28",
+    "title": "www.herford.de",
+    "year": null,
+    "kind": "geography",
+    "url": "https://www.herford.de/Verwaltung-Politik/Unsere-Stadt/Stadtgeschichte-Kommunalarchiv/Stadtgeschichte/1600-1800-Jahrhundert/"
+  },
+  {
+    "id": "geo-29",
+    "abbreviation": "GEO–29",
+    "title": "www.arcinsys.niedersachsen.de",
+    "year": null,
+    "kind": "geography",
+    "url": "https://www.arcinsys.niedersachsen.de/arcinsys/showFondsDetails.action?fondsId=613&request_locale=de"
+  },
+  {
+    "id": "geo-30",
+    "abbreviation": "GEO–30",
+    "title": "www.arcinsys.niedersachsen.de",
+    "year": null,
+    "kind": "geography",
+    "url": "https://www.arcinsys.niedersachsen.de/arcinsys/showFondsDetails.action?fondsId=524&request_locale=en"
+  },
+  {
+    "id": "geo-31",
+    "abbreviation": "GEO–31",
+    "title": "vieetudiante.unistra.fr",
+    "year": null,
+    "kind": "geography",
+    "url": "https://vieetudiante.unistra.fr/fr/universite/decouvrir/500-ans-dhistoire"
+  },
+  {
+    "id": "geo-32",
+    "abbreviation": "GEO–32",
+    "title": "guides.rusarchives.ru",
+    "year": null,
+    "kind": "geography",
+    "url": "https://guides.rusarchives.ru/terms/9/2665/razryad-xxv-kenigsbergskaya-kancelyariya"
+  },
+  {
+    "id": "geo-33",
+    "abbreviation": "GEO–33",
+    "title": "www.klgd.ru",
+    "year": null,
+    "kind": "geography",
+    "url": "https://www.klgd.ru/city/history/kalendar/kalend_3.php"
+  },
+  {
+    "id": "geo-34",
+    "abbreviation": "GEO–34",
+    "title": "www.ch-info.swiss",
+    "year": null,
+    "kind": "geography",
+    "url": "https://www.ch-info.swiss/fr/die-schweiz/geschichte"
+  },
+  {
+    "id": "geo-35",
+    "abbreviation": "GEO–35",
+    "title": "www.parliament.uk",
+    "year": null,
+    "kind": "geography",
+    "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/act-of-union-1707/overview/the-articles-constitution-and-trade/"
+  },
+  {
+    "id": "geo-36",
+    "abbreviation": "GEO–36",
+    "title": "www.wroclaw.pl",
+    "year": null,
+    "kind": "geography",
+    "url": "https://www.wroclaw.pl/dla-mieszkanca/historia-wroclawia-najwazniejsze-fakty"
+  },
+  {
+    "id": "geo-37",
+    "abbreviation": "GEO–37",
+    "title": "gsta.preussischer-kulturbesitz.de",
+    "year": null,
+    "kind": "geography",
+    "url": "https://gsta.preussischer-kulturbesitz.de/nutzung/arbeitshilfen/zeitleiste.html"
+  },
+  {
+    "id": "geo-38",
+    "abbreviation": "GEO–38",
+    "title": "castleroute.culture.gov.gr",
+    "year": null,
+    "kind": "geography",
+    "url": "https://castleroute.culture.gov.gr/en/ioannina/"
+  },
+  {
+    "id": "geo-39",
+    "abbreviation": "GEO–39",
+    "title": "www.casareal.es",
+    "year": null,
+    "kind": "geography",
+    "url": "https://www.casareal.es/ES/Actividades/Paginas/actividades_actividades_detalle.aspx?data=13012"
+  },
+  {
+    "id": "geo-40",
+    "abbreviation": "GEO–40",
+    "title": "pares.cultura.gob.es",
+    "year": null,
+    "kind": "geography",
+    "url": "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/autoridad/46889"
+  },
+  {
+    "id": "geo-41",
+    "abbreviation": "GEO–41",
+    "title": "archives-etat-ge.ch",
+    "year": null,
+    "kind": "geography",
+    "url": "https://archives-etat-ge.ch/page_de_base/1-geneve-au-xviiie-siecle/"
+  },
+  {
+    "id": "geo-42",
+    "abbreviation": "GEO–42",
+    "title": "archives-etat-ge.ch",
+    "year": null,
+    "kind": "geography",
+    "url": "https://archives-etat-ge.ch/page_de_base/entree-de-geneve-dans-la-confederation/"
+  }
+]

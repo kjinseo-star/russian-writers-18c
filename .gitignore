@@ -1,0 +1,11 @@
+node_modules/
+qa/
+.sites-runtime/
+.DS_Store
+.env
+.env.*
+worker/assets.generated.json
+dist/server/
+docs/education-display-v05.json
+docs/date-display-v05.json
+docs/ui-validation-v08.json

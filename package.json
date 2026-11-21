@@ -1,0 +1,25 @@
+{
+  "name": "writers18-prototype-104",
+  "version": "0.8.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "typecheck": "tsc --noEmit",
+    "check:ui": "node scripts/check-ui.mjs",
+    "dev": "node scripts/dev.mjs",
+    "check:reports": "node scripts/check-reports.mjs"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "cytoscape": "^3.30.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.0",
+    "typescript": "^5.8.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@types/cytoscape": "^3.21.0"
+  }
+}

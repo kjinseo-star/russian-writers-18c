@@ -1,0 +1,27 @@
+import {DatabaseSync} from 'node:sqlite';
+import assert from 'node:assert/strict';
+import {readFileSync} from 'node:fs';
+import {api,fieldsFor,validateReport,notifyReport} from '../worker/api.js';
+const data=JSON.parse(readFileSync('dist/app-data.json'));
+const sql=new DatabaseSync(':memory:');sql.exec('PRAGMA foreign_keys=ON;');sql.exec(readFileSync('drizzle/0000_reports.sql','utf8'));
+const DB={prepare(q){let params=[];return {bind(...v){params=v;return this},async first(){return sql.prepare(q).get(...params)},async all(){return {results:sql.prepare(q).all(...params)}},async run(){return {meta:{changes:sql.prepare(q).run(...params).changes}}}}},async batch(stmts){sql.exec('BEGIN');try{const results=[];for(const s of stmts)results.push(await s.run());sql.exec('COMMIT');return results}catch(e){sql.exec('ROLLBACK');throw e}}};
+const env={DB,ADMIN_EMAIL:'owner@example.org'},pending=[],ctx={waitUntil(p){pending.push(p)}};
+const origin='https://example.org';const p=data.people[0];
+const input={id:crypto.randomUUID(),personId:p.id,field:'Birth_year',version:data.meta.version,currentValue:fieldsFor(p).Birth_year,url:`${origin}/#person=${p.id}`,kind:'correction',problem:'Test problem',proposal:'Test correction',evidence:'test fixture',email:''};
+function req(path,body,admin=false,requestOrigin=origin){return new Request(origin+path,{method:body?'POST':'GET',headers:{'Origin':requestOrigin,'Content-Type':'application/json','oai-authenticated-user-id':'visitor','oai-authenticated-user-email':admin?env.ADMIN_EMAIL:'reader@example.org'},body:body?JSON.stringify(body):undefined})}
+assert.equal(validateReport({...input,currentValue:'forged'},data,origin).error,'stale_context');
+assert.equal(validateReport({...input,url:'https://evil.example/'},data,origin).error,'invalid_url');
+assert.equal((await api(req('/api/admin/reports'),env,ctx,data)).status,403);
+assert.equal((await api(req('/api/reports',input,false,'https://evil.example'),env,ctx,data)).status,403);
+let r=await api(req('/api/reports',input),env,ctx,data);assert.equal(r.status,201);await Promise.all(pending);
+r=await api(req('/api/reports',input),env,ctx,data);assert.equal(r.status,200);assert.equal(sql.prepare('select count(*) n from reports').get().n,1);
+r=await api(req('/api/admin/reports',null,true),env,ctx,data);let listing=await r.json();assert.equal(listing.items[0].payload.personName,p.name);assert.equal(listing.items[0].notification,'unconfigured');
+r=await api(req(`/api/admin/reports/${input.id}`,{status:'applied',decision:'evidence checked',revision:0},true),env,ctx,data);assert.equal(r.status,400);
+r=await api(req(`/api/admin/reports/${input.id}`,{status:'held',decision:'Need evidence',revision:0},true),env,ctx,data);assert.equal(r.status,200);
+r=await api(req(`/api/admin/reports/${input.id}`,{status:'reviewing',decision:'',revision:0},true),env,ctx,data);assert.equal(r.status,409);
+assert.equal(sql.prepare('select count(*) n from report_history').get().n,1);
+assert.equal((await api(req(`/api/admin/reports/${input.id}/history`),env,ctx,data)).status,403);
+for(let i=0;i<4;i++)assert.equal((await api(req('/api/reports',{...input,id:crypto.randomUUID()}),env,ctx,data)).status,201);
+assert.equal((await api(req('/api/reports',{...input,id:crypto.randomUUID()}),env,ctx,data)).status,429);await Promise.all(pending);
+assert.equal(await notifyReport(env,input,origin),'unconfigured');
+console.log('PASS: real SQLite migrations, input/context validation, origin rejection, private access, duplicate suppression, review history, optimistic concurrency, rate limit, email configuration state. No external email sent.');

@@ -1,0 +1,11 @@
+{
+  "dist/app-data.json": "21ad62dc0e3e8be1907bdaf8abae8dcbbbc085c739825add23dc4f15d4c44b0d",
+  "dist/index.html": "4828a1cfd58a455183fa564c0204cc1e51623410fee31ace0c560037ca7a3f32",
+  "dist/app.js": "cdcef71f0b0d4e8f3e1f1ce41ee9d3af8dfaf156fd5ad2b049eb8dfbc6ded7b1",
+  "dist/app.css": "3c97228d455f4beb1c8fae9a763c51b12f40ef7495098e4a2b41dc43e471baef",
+  "dist/app.js.LEGAL.txt": "ae76f23f6e26965b037bee27cdca51f11c31f37ec031c610320766b6cde009cb",
+  "source_data/Persons_links.tsv": "674df4a73b79a20eb77bdcc006cb3ccb9a1a5f2851961c4ec42b4e11704def83",
+  "source_data/Persons_EDGES.csv": "eb5a961985fe77b04d2fbc506d0dcf2293147af4145babe747657d56dc5a75c5",
+  "source_data/Readme_graph.md": "f331f56e0797fa8917088862faae164fc01a9fbdd754980a6e138257ced8e124",
+  "source_data/reviewed-v05.json.gz": "cf99fdbd3b88b1a609d22ac3c41ee40482f3e6c1db7777c99d4083cf258caedf"
+}
